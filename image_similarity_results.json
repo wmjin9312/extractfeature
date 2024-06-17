@@ -1,0 +1,25 @@
+{
+    "compared_image": "B급패밀리2차A형01.jpg",
+    "similarity_top5": [
+        {
+            "image": "B급패밀리2차A형03.jpg",
+            "similarity": "97.0%"
+        },
+        {
+            "image": "B급패밀리2차A형17.jpg",
+            "similarity": "93.0%"
+        },
+        {
+            "image": "리락쿠마1.jpg",
+            "similarity": "93.0%"
+        },
+        {
+            "image": "강원랜드_06.jpg",
+            "similarity": "91.0%"
+        },
+        {
+            "image": "B급패밀리2차A형15.jpg",
+            "similarity": "91.0%"
+        }
+    ]
+}
